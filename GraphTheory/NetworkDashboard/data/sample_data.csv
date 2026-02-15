@@ -1,0 +1,10 @@
+Source,Target,Weight
+Alice,Bob,5
+Alice,Charlie,3
+Bob,David,2
+Charlie,David,4
+Charlie,Eve,6
+David,Eve,1
+Eve,Frank,3
+Frank,Alice,2
+Bob,Frank,4

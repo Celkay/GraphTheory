@@ -1,0 +1,17 @@
+Source,Target,Weight
+Node0,Node1,5
+Node1,Node2,3
+Node2,Node3,2
+Node3,Node4,4
+Node4,Node0,6
+Node0,Node5,1
+Node5,Node6,3
+Node6,Node7,2
+Node7,Node8,4
+Node8,Node9,5
+Node9,Node0,2
+Node2,Node5,4
+Node3,Node7,1
+Node4,Node9,3
+Node1,Node8,5
+Node5,Node9,2
